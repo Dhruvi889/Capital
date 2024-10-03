@@ -1,0 +1,153 @@
+.superb {
+    position: relative;
+    width: 100%;
+
+}
+
+.firstmain {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-right: 60px;
+    margin-bottom: 20px;
+    position: fixed;
+    top: 0;
+    padding: 15px;
+    width: 100%;
+    background-color: white;
+}
+
+.sale {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    margin-top: 120px;
+    width: 99%;
+}
+
+.homecbg {
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.sgdivfirst {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding-right: 40px;
+}
+
+.homepara {
+    font-size: 15px;
+    margin-top: 0;
+}
+
+.mainredbbgdivs {
+    display: flex;
+    justify-content: start;
+    width: 80%;
+    background-color: red;
+    color: white;
+    padding: 30px;
+    padding-left: 60px;
+    gap: 50px;
+}
+
+.supermainredbbgdivs {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 70px;
+
+}
+
+.starsvgs {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 10px;
+}
+
+.lastblcdiv {
+    background-color: black;
+    color: white;
+    padding: 40px;
+    margin-top: 30px;
+}
+
+.subblc {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.enterbtnc {
+    background-color: white;
+    color: black;
+    border: none;
+    width: 250px;
+    padding: 18px;
+    text-align: start;
+}
+
+.Subscribebtn {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 18px;
+    width: 180px;
+}
+
+.svgdivs {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.footerl {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.copyright {
+    text-align: center;
+}
+
+.imgfooter {
+    display: flex;
+    align-items: start;
+    margin-top: 20px;
+    width: 10%;
+}
+
+.btncarta {
+    background-color: white;
+    border: none;
+    border-radius: 30px;
+    padding: 18px;
+    width: 150px;
+    font-size: 14px;
+}
+
+.btnsvgdiv {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.svgshare {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 2px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
